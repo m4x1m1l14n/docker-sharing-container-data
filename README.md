@@ -2,6 +2,8 @@
 
 Example of sharing static data within one container with other containers
 
+Story related to this repository can be found on medium [https://medium.com/@sepental.patrik/docker-sharing-container-data-with-other-containers-in-stack-fc7895c48071](https://medium.com/@sepental.patrik/docker-sharing-container-data-with-other-containers-in-stack-fc7895c48071)
+
 ### Build
 
 To build this stack run following command in project folder
