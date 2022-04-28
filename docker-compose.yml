@@ -18,7 +18,7 @@ services:
       # but with read-only access
       - client-files:/usr/share/nginx/html:ro
     ports:
-      - "5000:80"
+      - "80:80"
 
   server:
       build:
